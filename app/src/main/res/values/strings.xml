@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MarvelQuizApp</string>
+    <string name="button_true">True</string>
+    <string name="button_false">False</string>
+    <string name="msg">Hello Stark</string>
+    <string name="namehint">Enter your Name</string>
+    <string name="btnname">Enter</string>
+    <string name="welcome">Welcome</string>
+    <string name="marvelogo">Marvelogo</string>
+    <string name="score">Score 0/10</string>
+    <string name="question_1">The Avenger Climax was held in Bern.Swizerland</string>
+    <string name="question_2">Ultron is the father of vision</string>
+    <string name="question_3">There are 6 stones in Marvel Movie</string>
+    <string name="question_4">Friday is the AI that Stark used before Jarvis</string>
+    <string name="question_5">Veronika is build to smash the Hulk</string>
+    <string name="question_6">Palladium is the first element that Tony Stark used for his suite power</string>
+    <string name="question_7">Hamindal is the friend of odin</string>
+    <string name="question_8">Loki is the son of Odin</string>
+    <string name="question_9">Hydra is the name of Secrete Socity</string>
+    <string name="question_10">Iron Patriot is the name of Ironman Suite </string>
+</resources>
